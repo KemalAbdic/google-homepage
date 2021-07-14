@@ -25,8 +25,7 @@ body {
 }
 
 .dot {
-   border-radius: 50%;
-   top: -7px;
+  border-radius: 50%;
 }
 
 .sign_button {
@@ -78,10 +77,10 @@ input {
   border-color: #e1e1e1;
   font-size: 14px;
 
-  background-image: url('https://cdn1.iconfinder.com/data/icons/hawcons/32/698627-icon-111-search-512.png');
+  background-image: url("https://cdn1.iconfinder.com/data/icons/hawcons/32/698627-icon-111-search-512.png");
   background-size: 30px;
   background-repeat: no-repeat;
-  background-position: left center
+  background-position: left center;
 }
 
 button {
